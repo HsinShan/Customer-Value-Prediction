@@ -4,7 +4,7 @@ My master thesis in NTU.
 ## Abstract
 Propose <ins>**2 preprocessing methods of behavior data**</ins> + <ins>**5 experimental model**</ins>
 
-:white_check_mark: Confirm whether adding the behavior data could improve the most valuable customers’ model performance or not
+:white_check_mark: Confirm if using the customer online behavior data could improve the most valuable customers’ model performance
 
 :white_check_mark: Find the best model of the most valuable customers prediction
 
